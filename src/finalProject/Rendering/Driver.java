@@ -1,5 +1,4 @@
-package finalProject;
-
+package finalProject.Rendering;
 import java.awt.Color;
 
 public class Driver {
